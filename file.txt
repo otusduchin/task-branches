@@ -1,3 +1,4 @@
 Test file
 Test message 2
 Test message 3
+add message to master
